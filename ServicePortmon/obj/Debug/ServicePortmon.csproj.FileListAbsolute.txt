@@ -1,0 +1,9 @@
+C:\Users\jresmoris.INDRA\Documents\ServicePortmon\obj\Debug\ServicePortmon.csproj.AssemblyReference.cache
+C:\Users\jresmoris.INDRA\Documents\ServicePortmon\obj\Debug\ServicePortmon.csproj.CoreCompileInputs.cache
+C:\Users\jresmoris.INDRA\Documents\ServicePortmon\bin\Debug\ServicePortmon.exe.config
+C:\Users\jresmoris.INDRA\Documents\ServicePortmon\bin\Debug\ServicePortmon.exe
+C:\Users\jresmoris.INDRA\Documents\ServicePortmon\bin\Debug\ServicePortmon.pdb
+C:\Users\jresmoris.INDRA\Documents\ServicePortmon\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\jresmoris.INDRA\Documents\ServicePortmon\obj\Debug\ServicePortmon.csproj.CopyComplete
+C:\Users\jresmoris.INDRA\Documents\ServicePortmon\obj\Debug\ServicePortmon.exe
+C:\Users\jresmoris.INDRA\Documents\ServicePortmon\obj\Debug\ServicePortmon.pdb
